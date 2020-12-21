@@ -1,0 +1,251 @@
+@media (max-width:1450px){
+    
+}
+@media(max-width:1370px){
+    .right-block-wrapper {
+        padding: 50px 50px;
+        width: 300px;
+    }
+}
+@media(max-width:1160px){
+    .right-block-wrapper {
+        width: 280px;
+        padding: 30px 40px
+    }
+}
+
+@media  screen and (max-width: 1080px){
+    .navbar:not(.sign-in){
+        display:none;
+    }
+    .fa-bars{
+        display: block;
+    }
+    
+    
+}
+@media (max-width:1025px){
+    .left-block{
+        max-width: 400px;
+        width: 100%;
+    }
+    .right-block{
+        display:flex;
+        align-items: center;
+    }
+    .section-wrapper{
+        flex-wrap: wrap;
+        align-items: center;
+    }
+    .image-wrapper{
+        display:flex;
+    }
+    .image-1{
+        align-self: center;
+    }
+    .footer-wrapper{
+        padding-right: 0;
+    }
+    .footer-box-1 {
+        width: 200px;
+    }
+    .footer-p-1 {
+        font-size: 14px;
+    }
+    .footer-p {
+        font-size: 12px;
+    }
+    .section-04-wrapper {
+        flex-wrap: wrap;
+    }
+    .xz-li {
+        width: 250px;
+    }
+
+}
+@media (max-width:915px){
+    .image-wrapper{
+        height: auto;
+    }
+    .right-button {
+        font-size: 12px;
+    }
+}
+@media (max-width:890px){
+   .right-block-wrapper{
+       max-width: 350px;
+       width: 100%;
+       padding: 50px 65px;
+   }
+   .right-h{
+       font-size: 14px;
+   }
+   .right-p{
+       font-size: 15px;
+   }
+   .right-button{
+       width: 200px;
+   }
+   .xz-li {
+       width: 230px;
+   }
+   .xz-span {
+       font-size: 12px;
+   }
+}
+@media (max-width:790px) {
+    .left-block {
+        max-width: 350px;
+        width: 100%
+    
+    }
+    .header-content-title {
+        font-size: 25px;
+        width: 250px;
+        
+    }
+    .read-more {
+        width: 150px;
+    }
+    .ul-p {
+        font-size: 14px;
+    
+    }
+    .h-list {
+        font-size: 14px;
+    }
+    .right-block-wrapper {
+        max-width: 300px;
+
+    }
+    .icon {
+        font-size: 30px;
+    }
+    .icons {
+        margin-right: 30px;
+    }
+    .right-block-wrapper {
+        padding: 40px 60px;
+    }
+    .right-h {
+        font-size: 13px;
+    }
+    .right-button {
+        width: 170px;
+    }
+    .xz-li {
+        width: 200px;
+    }
+    .xz-span {
+        font-size: 12px;
+    }
+}
+@media (max-width:690px) {
+    .wrapper-box-02{
+        flex-direction: column;
+        align-items: center;
+    }
+    .video-wrapper{
+       flex-direction: column;
+       align-items: center;
+    }
+    .xz-li {
+        width: 140px;
+    }
+    .xz-span {
+        font-size: 10px;
+    }
+    .footer-ul {
+        width: 130px;
+    }
+    .footer-p-1 {
+        font-size: 11px;
+    }
+    .footer-p {
+        font-size: 9px;
+    }
+    .copy {
+        width: 250px;
+    }
+    .video-box {
+        width: 400px;
+    }
+    .video-1 {
+        width: 100%;
+    }
+
+}
+@media(max-width:540px){
+    .video-box {
+        width: 400px;
+    }
+    .video-1 {
+        width: 100%;
+    }
+    .footer-ul {
+        width: 100px;
+    }
+    .footer-p-1 {
+        font-size: 9px;
+    }
+    .footer-p {
+        font-size: 7px;
+    }
+    .footer-wrapper {
+        flex-wrap: wrap;
+    }
+    .xz-li {
+        width: 120px;
+    }
+    .xz-span {
+        font-size: 8px;
+    }
+    .xz-image {
+        width: 20px;
+        height: 20px;
+    }
+    
+}
+@media(max-width:420px){
+    .video-box {
+        width: 300px;
+    }
+    .copy {
+        width: 200px;
+    }
+    .footer-title {
+        width: 110px;
+    }
+    .footer-title-p {
+        font-size: 10px;
+    }
+    .copy-p {
+        font-size: 10px;
+    }
+}
+@media(max-width:350px){
+    .video-box {
+        width: 260px;
+    }
+    .copy {
+        width: 170px;
+    }
+    .footer-title {
+        width: 100px;
+    }
+    .footer-title-p {
+        font-size: 10px;
+    }
+    .copy-p {
+        font-size: 10px;
+    }
+    .div-section1 {
+        width: 270px;
+    }
+    .image-1 {
+        width: 100%;
+    }
+    }
+    
+    
+
